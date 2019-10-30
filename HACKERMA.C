@@ -8,13 +8,13 @@ void main()
 	printf("entertwo numbers\n");
 	scanf("%f%f",&a,&b);
 	sum=a+b;
-	printf("sum=%f",sum);
+	printf("Sum=%f",sum);
 	pro=a*b;
-	printf("\nproduct=%f",pro);
+	printf("\nProduct=%f",pro);
 	div=a/b;
-	printf("\nquotient=%f",div);
+	printf("\nQuotient=%f",div);
 	avg=(a+b)/2;
-	printf("\naverage=%f",avg);
+	printf("\nAverage=%f",avg);
 	getch();
 
 
