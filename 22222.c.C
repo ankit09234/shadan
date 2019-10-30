@@ -6,7 +6,7 @@ clrscr();
 printf("enter any number\n");
 scanf("%f",&a);
 if(a==1)
-printf("dog");
+printf("doggy");
 else
 printf("cat");
 getch();
